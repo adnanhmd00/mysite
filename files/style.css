@@ -7807,7 +7807,11 @@ h1, h2, h3, h4, h5,
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
+<<<<<<< HEAD
     padding: 7em 0;
+=======
+    padding: 15em 0;
+>>>>>>> 124fc72ba668c056d8f8cac8c0a02b7396d66510
     background: #000; }
     .ftco-section-parallax .parallax-img.parallax-img-2 {
       background: #000; }
@@ -8058,9 +8062,13 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000;
+<<<<<<< HEAD
   padding: 4em 0 4em 0;
   /* padding: 12em 0 8em 0; */
  }
+=======
+  padding: 12em 0 8em 0; }
+>>>>>>> 124fc72ba668c056d8f8cac8c0a02b7396d66510
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -8310,8 +8318,12 @@ textarea.form-control {
 
 .ftco-counter {
   background: #000;
+<<<<<<< HEAD
   padding: 7em 0; 
 }
+=======
+  padding: 15em 0; }
+>>>>>>> 124fc72ba668c056d8f8cac8c0a02b7396d66510
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 40px;
